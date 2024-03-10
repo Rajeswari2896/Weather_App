@@ -69,4 +69,4 @@ Error handling for invalid locations.**
 
 
 **Project view:**
-**[Weather_App]**(https://rajeswari2896.github.io/Weather_App/)
+**[Weather_App]**click to visit(https://rajeswari2896.github.io/Weather_App/)

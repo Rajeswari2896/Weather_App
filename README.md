@@ -14,7 +14,7 @@ Error handling for invalid locations.**
 
 ## Screenshots
 
-![Project Screenshot](https://github.com/vishnuu5/Weather_App/assets/139614960/3de27eaf-0228-4158-a879-72d4b56d10c0)
+![Project Screenshot]https://github.com/Rajeswari2896/Weather_App/blob/main/Project%20Screenshort.png.png
 
 
 # Getting Started
@@ -69,4 +69,4 @@ Error handling for invalid locations.**
 
 
 **Project view:**
-**[Weather_App]**(https://vishnuu5.github.io/Weather_App/)
+**[Weather_App]**(https://rajeswari2896.github.io/Weather_App/)

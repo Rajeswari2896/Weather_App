@@ -14,7 +14,7 @@ Error handling for invalid locations.**
 
 ## Screenshots
 
-![Project Screenshot]https://github.com/Rajeswari2896/Weather_App/blob/main/Project%20Screenshort.png.png
+![Project Screenshot](https://github.com/Rajeswari2896/Weather_App/blob/main/Project%20Screenshort.png.png)
 
 
 # Getting Started
